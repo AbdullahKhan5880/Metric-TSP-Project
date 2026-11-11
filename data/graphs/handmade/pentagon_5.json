@@ -1,0 +1,22 @@
+
+{
+    "nodes": [
+        {"id": 0, "pos": [1, 1]},
+        {"id": 1, "pos": [5, 1]},
+        {"id": 2, "pos": [7, 4]},
+        {"id": 3, "pos": [4, 7]},
+        {"id": 4, "pos": [1, 5]}
+    ],
+    "edges": [
+        {"source": 0, "target": 1, "weight": 4.0},
+        {"source": 0, "target": 2, "weight": 6.708203932499369},
+        {"source": 0, "target": 3, "weight": 6.708203932499369},
+        {"source": 0, "target": 4, "weight": 4.0},
+        {"source": 1, "target": 2, "weight": 3.605551275463989},
+        {"source": 1, "target": 3, "weight": 6.708203932499369},
+        {"source": 1, "target": 4, "weight": 5.656854249492381},
+        {"source": 2, "target": 3, "weight": 4.242640687119285},
+        {"source": 2, "target": 4, "weight": 6.708203932499369},
+        {"source": 3, "target": 4, "weight": 3.1622776601683795}
+    ]
+}

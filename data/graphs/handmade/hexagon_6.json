@@ -1,0 +1,28 @@
+
+{
+    "nodes": [
+        {"id": 0, "pos": [1, 1]},
+        {"id": 1, "pos": [5, 1]},
+        {"id": 2, "pos": [8, 3]},
+        {"id": 3, "pos": [7, 7]},
+        {"id": 4, "pos": [3, 8]},
+        {"id": 5, "pos": [1, 5]}
+    ],
+    "edges": [
+        {"source": 0, "target": 1, "weight": 4.0},
+        {"source": 0, "target": 2, "weight": 7.280109889280518},
+        {"source": 0, "target": 3, "weight": 8.48528137423857},
+        {"source": 0, "target": 4, "weight": 7.280109889280518},
+        {"source": 0, "target": 5, "weight": 4.0},
+        {"source": 1, "target": 2, "weight": 3.605551275463989},
+        {"source": 1, "target": 3, "weight": 6.324555320336759},
+        {"source": 1, "target": 4, "weight": 7.280109889280518},
+        {"source": 1, "target": 5, "weight": 5.656854249492381},
+        {"source": 2, "target": 3, "weight": 4.123105625617661},
+        {"source": 2, "target": 4, "weight": 7.0710678118654755},
+        {"source": 2, "target": 5, "weight": 7.280109889280518},
+        {"source": 3, "target": 4, "weight": 4.123105625617661},
+        {"source": 3, "target": 5, "weight": 6.324555320336759},
+        {"source": 4, "target": 5, "weight": 3.605551275463989}
+    ]
+}
